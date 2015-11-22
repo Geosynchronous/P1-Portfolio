@@ -238,7 +238,7 @@ body {
   }
 
  	.header_myname {
- 		font-size: 1.2em;
+    font: 300 1.2em Roboto;
  	}
 
  	.header_subtitle {
