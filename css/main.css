@@ -176,7 +176,7 @@ hr {
   * Also greater resolution not needed from art perspective.
   */
   position: relative;
-  background-image: url("images/large_antelope_island.jpg");
+  background-image: url("../images/large_antelope_island.jpg");
   background-size: cover;
   transition-duration: 2s;
 }

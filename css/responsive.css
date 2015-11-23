@@ -151,7 +151,7 @@ body {
 
   .hero {
     min-height: 300px;
-    background-image: url("images/medium_antelope_island.jpg");
+    background-image: url("../images/medium_antelope_island.jpg");
   }
 
   .featuredwork {
@@ -258,7 +258,7 @@ body {
 
   .hero {
     min-height: 160px;
-    background-image: url("images/small_antelope_island.jpg");
+    background-image: url("../images/small_antelope_island.jpg");
     /* This image was cropped for Art Direction */
   }
 
