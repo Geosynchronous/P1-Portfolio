@@ -113,7 +113,6 @@ body {
 
   .header__menu svg {
     width: 45px;
-    fill: #e0e0e0;
   }
 
   hr {
@@ -127,7 +126,7 @@ body {
   .nav {
     z-index: 10;
     background-color: #000000;
-    bottom-margin: 200px;
+    margin-bottom: 200px;
     width: 300px;
     position: absolute;
     /* This trasform moves the drawer off canvas. */
@@ -142,7 +141,6 @@ body {
   }
 
   .nav a:hover {
-    color: ;
     text-decoration: none;
   }
 
