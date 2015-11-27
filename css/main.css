@@ -24,8 +24,9 @@ html {
   box-sizing: inherit;
   }
 
-body, html {
-  margin: 0px;
+html,
+body {
+  margin: 0;
   padding: 0;
   width: 100%;
   height: 100%;
@@ -55,8 +56,21 @@ ul {
  *  h6 Sub-Section Subtitle
  */
 
-h1, h2, h3, h4, h5 {
+h1,
+h2,
+h3,
+h4,
+h5 {
   margin: 0;
+}
+
+a:link{
+    text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #f8981c;
 }
 
 .lighten_on_hover:hover {
@@ -144,15 +158,16 @@ hr {
   text-transform: uppercase;
 }
 
-.nav a {
+/*.nav a {
+  text-decoration: none;
+  color: #ffffff;
+}*/
+
+.nav-link {
   text-decoration: none;
   color: #ffffff;
 }
 
-.nav a:hover {
-  text-decoration: none;
-  color: #f8981c;
-}
 
 
 /*
@@ -176,7 +191,7 @@ hr {
   * Also greater resolution not needed from art perspective.
   */
   position: relative;
-  background-image: url("../images/large_antelope_island.jpg");
+  background-image: url(../images/large_antelope_island.jpg);
   background-size: cover;
   transition-duration: 2s;
 }
@@ -240,36 +255,18 @@ article.description {
   padding: 8px 0 0 0;
 }
 
-.fw_title a{
+.fw_title-link {
   font: 400 2.76em Roboto;
   color: #747704;
-}
-
-.fw_title  a:link{
-    text-decoration: none;
-}
-
-.fw_title  a:hover{
-    color: #f8981c;
-    text-decoration: none;
 }
 
 .fw_url {
   margin: 3px;
 }
 
-.fw_url a{
+.fw_url-link {
   font: 100 1em Roboto;
   color: #bcbbbb;
-}
-
-.fw_url a:link{
-    text-decoration: none;
-}
-
-.fw_url a:hover{
-    text-decoration: none;
-    color: #f8981c;
 }
 
 .footer_inner{

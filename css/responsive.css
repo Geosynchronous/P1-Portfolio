@@ -136,12 +136,8 @@ body {
     transition: transform 0.3s ease;
   }
 
-  .nav a {
+  .nav-link {
     color: #ffffff;
-  }
-
-  .nav a:hover {
-    text-decoration: none;
   }
 
   .nav.open {
@@ -151,7 +147,7 @@ body {
 
   .hero {
     min-height: 300px;
-    background-image: url("../images/medium_antelope_island.jpg");
+    background-image: url(../images/medium_antelope_island.jpg);
   }
 
   .featuredwork {
@@ -190,7 +186,7 @@ body {
 
     /* Move text inline with image and center */
 
-  h5.fw_title {
+ /* h5*/.fw_title {
       display: inline-block;
       vertical-align: top;
       margin: 4.5em 0.75em 0 0;
@@ -203,7 +199,7 @@ body {
     margin: 15px;
   }
 
-	.fw_title a{
+	.fw_title-link{
     color: #ffdbb8;
     font-size: 2.2em;
 	}
@@ -258,7 +254,7 @@ body {
 
   .hero {
     min-height: 160px;
-    background-image: url("../images/small_antelope_island.jpg");
+    background-image: url(../images/small_antelope_island.jpg);
     /* This image was cropped for Art Direction */
   }
 
@@ -290,11 +286,11 @@ body {
 		padding-top: 0.5em;
   }
 
-	h5.fw_title {
+/*	h5*/.fw_title {
     margin:1.4em 0 0 0.75em ;
   }
 
-  .fw_title a{
+  .fw_title-link {
     color: #ffdbb8;
     font-size: 1.6em;
   }
