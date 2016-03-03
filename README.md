@@ -13,4 +13,9 @@ In addition, a bit of javascript was implemented for the interactive menu drawer
 The initial Design Mockup given for this project, which was to be enhanced by me:
 	https://github.com/Geosynchronous/P1-Portfolio/blob/gh-pages/design-mockup-portfolio.pdf
 
+##How to run the Portfolio
+Two different ways of running the code are shown below:  
+1. To automatically load the Resume in a browser for viewing, go to http://geosynchronous.github.io/P1-Portfolio/  
+2. The Portfolio is located at https://github.com/Geosynchronous/P1-Portfolio. You may download all these files into a local directory on your computer. Once the files are in a local directory, all you need to do is click on index.html to open the program in a web browser. Soon as you do that you should see the game with some bugs with animated motion on a gaming background.
+
 
