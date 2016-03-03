@@ -1,7 +1,8 @@
 #Project 1 - Portfolio
-by George Fischer
-Udacity's Front-End Web Developer Nanodegree Course
-
+	by George Fischer  
+	An Apprentice in Udacity's Nanodegree Course: 
+		Front-End Web Developer  
+	
 ##About this Project
 One main purpose with this project was to create a Professional Online Portfolio, that implemented effective Responsive Web Design. The portfolio web page is responsive for all displays from small phones up to large display devices.  Changing the browser page width also reveals some interesting transition features.
 
