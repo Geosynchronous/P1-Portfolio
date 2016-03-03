@@ -1,4 +1,4 @@
-Project 1 - Portfolio
+#Project 1 - Portfolio
 by George Fischer
 
 Udacity's Front-End Web Developer Nanodegree Course
